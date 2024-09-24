@@ -1,0 +1,5 @@
+/solution/
+*.o
+explode
+*.sh
+.DS_store
